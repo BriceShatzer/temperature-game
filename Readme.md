@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/BriceShatzer/temperature-game/master/problem.png)
